@@ -1,8 +1,6 @@
 # PAYWAVE OFFICIAL BACKEND REST API
 Official Paywave Repository 
 
-![https://github.com/ImonEmmanuel/PaywaveOfficial-Repo](https://img.shields.io/github/license/ImonEmmanuel/PaywaveOfficial-Repo)
-![https://github.com/ImonEmmanuel/PaywaveOfficial-Repo](https://img.shields.io/github/v/release/ImonEmmanuel/PaywaveOfficial-Repo)
 
 Welcome to the official repository of For Paywave REST API. This API powers the backend infrastructure for our cutting-edge financial services. It is built using C# and deployed on AWS for scalability, reliability, and security.
 
@@ -37,3 +35,30 @@ Welcome to the official repository of For Paywave REST API. This API powers the 
 
    ```bash
    https://github.com/ImonEmmanuel/PaywaveOfficial-Repo
+
+2. Navigate to the project directory:
+    ```bash
+    cd PaywaveOfficial-Repo
+
+3. Install dependencies:
+    ```bash
+    dotnet restore
+4. No need to Configure your database connection, AWS credentials, and other settings in appsettings.json.
+
+5. Build and run the API:
+    ```bash
+    dotnet run
+
+Access the API at [Official Swagger Documentation](http://paywave-dev.eba-ypxxxpkf.us-east-1.elasticbeanstalk.com/swagger).
+
+## API Documentation
+Comprehensive API documentation can be found in the API Documentation folder. It provides details about available endpoints, request/response examples, and authentication mechanisms.
+
+## Deployment
+This API is designed to be deployed on AWS. Follow the steps in the Deployment Guide to deploy the API to AWS using services like Amazon EC2, Amazon ElasticBean Stalk, and Amazon API Gateway.
+
+## Contributing
+We welcome contributions from the community! To contribute to this project, please follow our Contribution Guidelines.
+
+## License
+This project is licensed under the [MIT License](https://github.com/ImonEmmanuel/PaywaveOfficial-Repo/blob/main/LICENSE).
