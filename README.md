@@ -1,10 +1,8 @@
-# PaywaveOfficial-Repo
+# PAYWAVE OFFICIAL BACKEND REST API
 Official Paywave Repository 
 
-# PAYWAVE OFFICIAL BACKEND REST API
-
-![GitHub](https://img.shields.io/github/license/ImonEmmanuel/PaywaveOfficial-Repo)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ImonEmmanuel/PaywaveOfficial-Repo)
+![https://github.com/ImonEmmanuel/PaywaveOfficial-Repo](https://img.shields.io/github/license/ImonEmmanuel/PaywaveOfficial-Repo)
+![https://github.com/ImonEmmanuel/PaywaveOfficial-Repo](https://img.shields.io/github/v/release/ImonEmmanuel/PaywaveOfficial-Repo)
 
 Welcome to the official repository of For Paywave REST API. This API powers the backend infrastructure for our cutting-edge financial services. It is built using C# and deployed on AWS for scalability, reliability, and security.
 
