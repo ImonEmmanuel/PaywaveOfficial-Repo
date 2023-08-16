@@ -1,0 +1,30 @@
+# Use the official ASP.NET Core SDK image as the base image
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the project files and restore dependencies
+COPY *.csproj .
+RUN dotnet restore
+
+# Copy the application source code
+COPY . .
+
+# Build the application
+RUN dotnet publish -c Release -o out
+
+# Create a runtime image using the ASP.NET Core runtime image
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the published application from the build image
+COPY --from=build /app/out .
+
+# Expose port 80 for the web application
+EXPOSE 80
+
+# Set the entry point for the container
+ENTRYPOINT ["dotnet", "Paywave.dll"]

@@ -1,0 +1,15 @@
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\bin\Release\net6.0\PaywaveAPIData.deps.json
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\bin\Release\net6.0\PaywaveAPIData.dll
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\bin\Release\net6.0\PaywaveAPIData.pdb
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\bin\Release\net6.0\PaywaveAPICore.dll
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\bin\Release\net6.0\PaywaveAPICore.pdb
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\PaywaveAPIData.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\PaywaveAPIData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\PaywaveAPIData.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\PaywaveAPIData.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\PaywaveAPIData.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\PaywaveAPIData.csproj.CopyComplete
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\PaywaveAPIData.dll
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\refint\PaywaveAPIData.dll
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\PaywaveAPIData.pdb
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIData\obj\Release\net6.0\ref\PaywaveAPIData.dll
