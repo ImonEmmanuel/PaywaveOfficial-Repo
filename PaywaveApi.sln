@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paywave", "Paywave\Paywave.csproj", "{4FFD3EDF-976C-4FB5-8BF5-19AF76FB8C52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaywaveAPICore", "PaywaveAPICore\PaywaveAPICore.csproj", "{09369608-C97B-467E-A5E9-1E5A4C19AEC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaywaveAPIData", "PaywaveAPIData\PaywaveAPIData.csproj", "{8C6C6757-E3A2-4B6D-8402-ADE3F98A8045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaywaveAPIMongoDataService", "PaywaveAPIMongoDataService\PaywaveAPIMongoDataService.csproj", "{217912E4-ACD7-408C-A9BC-CB8D536B423D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFD3EDF-976C-4FB5-8BF5-19AF76FB8C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFD3EDF-976C-4FB5-8BF5-19AF76FB8C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFD3EDF-976C-4FB5-8BF5-19AF76FB8C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFD3EDF-976C-4FB5-8BF5-19AF76FB8C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09369608-C97B-467E-A5E9-1E5A4C19AEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09369608-C97B-467E-A5E9-1E5A4C19AEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09369608-C97B-467E-A5E9-1E5A4C19AEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09369608-C97B-467E-A5E9-1E5A4C19AEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6C6757-E3A2-4B6D-8402-ADE3F98A8045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6C6757-E3A2-4B6D-8402-ADE3F98A8045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6C6757-E3A2-4B6D-8402-ADE3F98A8045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6C6757-E3A2-4B6D-8402-ADE3F98A8045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217912E4-ACD7-408C-A9BC-CB8D536B423D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217912E4-ACD7-408C-A9BC-CB8D536B423D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217912E4-ACD7-408C-A9BC-CB8D536B423D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217912E4-ACD7-408C-A9BC-CB8D536B423D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38DC022-F44E-4F7F-8BC0-7A435BEA085D}
+	EndGlobalSection
+EndGlobal

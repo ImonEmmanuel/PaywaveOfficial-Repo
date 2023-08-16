@@ -1,0 +1,15 @@
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\bin\Release\net6.0\PaywaveAPIMongoDataService.deps.json
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\bin\Release\net6.0\PaywaveAPIMongoDataService.dll
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\bin\Release\net6.0\PaywaveAPIMongoDataService.pdb
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\bin\Release\net6.0\PaywaveAPICore.dll
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\bin\Release\net6.0\PaywaveAPICore.pdb
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\PaywaveAPIMongoDataService.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\PaywaveAPIMongoDataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\PaywaveAPIMongoDataService.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\PaywaveAPIMongoDataService.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\PaywaveAPIMongoDataService.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\PaywaveAPIMongoDataService.csproj.CopyComplete
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\PaywaveAPIMongoDataService.dll
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\refint\PaywaveAPIMongoDataService.dll
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\PaywaveAPIMongoDataService.pdb
+C:\Users\user\Source\Repos\Paywave\PaywaveAPIMongoDataService\obj\Release\net6.0\ref\PaywaveAPIMongoDataService.dll
